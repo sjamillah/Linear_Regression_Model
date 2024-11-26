@@ -15,6 +15,9 @@ To create an accessible and accurate prediction system that helps identify poten
 ### Demo Video
 [![Feel Heal Demo](https://www.loom.com/share/0109f7f72b2a4f3d8dfca7f68443f8df?sid=1f9421e7-2506-44b3-81fb-15aee091db07)]
 
+### Figma Design
+[![Feel Heal Figma Design](https://www.figma.com/design/8KZoT9tvQNFQPdTGCoUyk2/Feel-%26-Heal?node-id=0-1)]
+
 ## Features
 
 ### Health Metrics Analysis
