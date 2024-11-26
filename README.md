@@ -76,7 +76,7 @@ The system analyzes various health indicators including:
 [![link](https://feel-heal-api.onrender.com)]
 
 ### Swagger UI
-[![link](https://feel-heal-api.onrender.com/docs)]
+[![link](https://feel-heal-api.onrender.com/docs#/default/predict_mental_health_predict_post)]
 
 ### Prediction Endpoint
 ```http
