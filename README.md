@@ -73,9 +73,10 @@ The system analyzes various health indicators including:
 ## API Documentation
 
 ### Base URL
-```http
-https://feel-heal-api.onrender.com
-```
+[![link](https://feel-heal-api.onrender.com)]
+
+### Swagger UI
+[![link](https://feel-heal-api.onrender.com/docs)]
 
 ### Prediction Endpoint
 ```http
